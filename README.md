@@ -6,3 +6,11 @@ Since I've got a bit of time, kind of wanted to get back into programming for a 
 
 ### Day 1
 - Python
+
+## Running Tests
+
+Install `pytest` and run the test suite from the repository root:
+
+```bash
+pytest
+```
